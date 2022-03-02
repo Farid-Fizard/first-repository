@@ -1,0 +1,14 @@
+body{
+    font-size: 30px;
+    font-weight: bold;
+}
+.header ,.article , .aside{
+    border:1px solid black;
+}
+.content{
+    display: flex;
+}
+.article , .aside{
+    width: 50%;
+    height: 500px;
+}
